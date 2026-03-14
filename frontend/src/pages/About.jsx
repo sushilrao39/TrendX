@@ -17,7 +17,7 @@ const About = () => {
         />
         <div className="flex flex-col justify-center gap-6 md:w-2/4 text-gray-600">
           <p>
-            Forever was born out of passion for innovation and a desire to
+            TrendX was born out of passion for innovation and a desire to
             revolution An effective mission statement is clear, concise, and focused on what is most important to the organization. It typically answers three key questions
           </p>
           <p>
@@ -26,7 +26,7 @@ const About = () => {
           </p>
           <b className="text-gray-800">Our Mission</b>
           <p>
-            Our mission at Forever is to empower customers with choice ,
+            Our mission at TrendX is to empower customers with choice ,
             conventionmission is the core purpose of a business, organization, or individual. It guides your actions, provides a sense of direction, and communicates what you do, who you serve, and what you aim to achieve
           </p>
         </div>

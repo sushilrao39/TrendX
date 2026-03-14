@@ -19,13 +19,13 @@ const Contact = () => {
         <div className="flex flex-col justify-center itmes-start gap-6">
           <p className="font-semibold text-xl text-gray-600">Our Store</p>
           <p className=" text-graay-500">
-            54709 willms Station <br /> Suite 350, Washington DC, USA
+            54709 karnataka india <br /> IT Park new town Bangluru , India, 
           </p>
           <p className="text-gray-500">
-            Tel: 7857-857-8965 <br /> Emial: admin@forever.com
+            Tel: 7857-857-8965 <br /> Emial: admin@Trendx.com
           </p>
           <p className="font-semibold text-xl text-gray-600">
-            Carrer at Forever
+            Carrer at Trendx
           </p>
           <p className="text-gray-500">
             Lern more about our team and job openings.
